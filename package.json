@@ -1,21 +1,14 @@
 {
-  "name": "map-component",
+  "name": "component-map",
+  "description": "Array map utility",
   "version": "0.0.1",
-  "description": "Map utility",
+  "keywords": [
+    "array",
+    "map",
+    "utility"
+  ],
   "dependencies": {
-    "to-function": "*"
+    "component-to-function": "git://github.com/npmcomponent/component-to-function.git"
   },
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "map/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/map.git"
-  }
+  "license": "MIT"
 }
