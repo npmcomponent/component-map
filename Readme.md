@@ -1,6 +1,7 @@
 *This repository is a mirror of the [component](http://component.io) module [component/map](http://github.com/component/map). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/component-map`.*
 *This repository is a mirror of the [component](http://component.io) module [component/map](http://github.com/component/map). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/component-map`.*
 *This repository is a mirror of the [component](http://component.io) module [component/map](http://github.com/component/map). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/component-map`.*
+*This repository is a mirror of the [component](http://component.io) module [component/map](http://github.com/component/map). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/component-map`.*
 
 # map
 
